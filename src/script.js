@@ -1,5 +1,5 @@
-function f() {
+function fff() {
   console.log('Hello, world!');
 }
 
-f();
+fff();
